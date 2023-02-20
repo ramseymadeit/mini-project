@@ -1,0 +1,17 @@
+{
+  "dependencies": {
+    "express": "^4.18.2",
+    "mongoose": "^6.9.2",
+    "nodemon": "^2.0.20"
+  },
+  "name": "dcit205",
+  "version": "1.0.0",
+  "description": "A backend nodejs application",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "dev": "nodemon index.js"
+  },
+  "author": "Ramsey Asante-Dampson",
+  "license": "ISC"
+}
